@@ -28,6 +28,7 @@ echo MAX_WIDTH;
 <?php // can't even redfine the value 
 // define('MAX_WIDTH', '981');
 // echo MAX_WIDTH;
+// test
 ?>
 </body>
 </html>
