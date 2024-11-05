@@ -17,9 +17,8 @@ define("MAX_WIDTH", 980);
 echo MAX_WIDTH;
 
 ?>
-
 <br />
-
+<br />
 <?php // can't change the value 
 // MAX_WIDTH += 1;
 // echo MAX_WIDTH;
