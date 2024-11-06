@@ -24,7 +24,7 @@ if (!isset($e)) {
     }
     echo $e;
 ?>
-
+<br />
 <br />
 <?php
 // dont reject 0 or 0.0
