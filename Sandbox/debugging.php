@@ -20,8 +20,7 @@ var_dump($array);
 
 
 print_r( get_defined_vars());
-
-
+// test
 ?>
 </body>
 </html>
