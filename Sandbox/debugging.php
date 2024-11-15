@@ -7,7 +7,7 @@ FUNCTIONS: defaults
     </head>
 <body>
 <?php
-$number = 99;
+$number = 100;
 $string = "Bug?";
 $array = array(1 => "Homepage", 2 => "About us");
 
@@ -17,7 +17,6 @@ var_dump($array);
 ?><br />
 
 <?php 
-
 
 print_r( get_defined_vars());
 // test

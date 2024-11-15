@@ -37,6 +37,7 @@ switch(($year -4) % 12) {
     case 3: $zodiac = 'Rabbit'; break;
     case 4: $zodiac = 'Dragon'; break;
     case 5: $zodiac = 'Snake'; break;
+    case 6: $zodiac = 'Cat'; break;
 }
 echo "{$year} is the year of {$zodiac}, <br />";
 ?>
